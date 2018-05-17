@@ -10,5 +10,4 @@ package mx.pensare.xmmp.chat;
  * @author manuel
  */
 public class ChatDriver {
-    
 }
